@@ -12,9 +12,6 @@
 演示地址：[https://minsu.gitapp.cn](https://minsu.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/java_minsu
 
 
 ## 主要功能
